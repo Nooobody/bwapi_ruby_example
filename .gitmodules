@@ -1,0 +1,3 @@
+[submodule "bwapi_ruby"]
+	path = bwapi_ruby
+	url = git@github.com:tinco/bwapi_ruby
